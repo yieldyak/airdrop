@@ -12,3 +12,6 @@ $YAK tokens will be distributed to three groups:
 3. Depositors (pending)
 
 Check your address for eligibility.
+  * [telegram.csv](https://github.com/yieldyak/airdrop/blob/main/telegram.csv)
+  * [reinvest.csv](https://github.com/yieldyak/airdrop/blob/main/reinvest.csv)
+  * depositors.csv (pending)
